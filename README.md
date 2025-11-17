@@ -1,1 +1,3 @@
-# nkusthomeworknotify
+有鑑於我常常忘記繳作業
+所以開發此功能
+源碼待公布
